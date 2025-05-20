@@ -8,7 +8,7 @@
 ## Bottom Navigation Demo:
 
 
-[[Uploading Screen_recording_20250520_212007.webm…]()](https://github.com/user-attachments/assets/3e604025-7adb-4efd-af07-6bb1204ee574)
+https://github.com/user-attachments/assets/3e604025-7adb-4efd-af07-6bb1204ee574
 
 ## 📥 Installation
 
