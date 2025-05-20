@@ -16,4 +16,10 @@ allprojects {
     }
 }
 
-
+### App Level (gradle.build)
+'''
+// App-level build.gradle
+dependencies {
+    implementation 'com.github.YOUR_GITHUB_USERNAME:BottomNavigationLib:1.0.0'
+}
+'''
