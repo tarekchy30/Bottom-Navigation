@@ -5,6 +5,11 @@
 - 🌙 Dark/Light theme support
 - ⚡ Smooth animations
 
+## Bottom Navigation Demo:
+
+
+[Uploading Screen_recording_20250520_212007.webm…]()
+
 ## 📥 Installation
 
 ### Gradle (JitPack)
