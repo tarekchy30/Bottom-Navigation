@@ -17,7 +17,7 @@
         android:textSize="24sp" />
 
     <!-- Use your custom view instead of BottomNavigationView -->
-    <com.example.buttomnav.BottomNavigationHelper
+    <com.tkchy.buttomnav.BottomNavigationHelper
         android:id="@+id/bottom_navigation_helper"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.buttomnav'
+    namespace 'com.tkchy.buttomnav'
     compileSdk 35
 
     defaultConfig {

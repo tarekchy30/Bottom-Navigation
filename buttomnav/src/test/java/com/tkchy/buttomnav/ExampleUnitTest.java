@@ -1,4 +1,4 @@
-package com.example.buttomnav;
+package com.tkchy.buttomnav;
 
 import org.junit.Test;
 

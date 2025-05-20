@@ -16,7 +16,7 @@
         android:textColor="@color/white"
         android:textSize="24sp" />
 
-    <com.example.buttomnav.BottomNavigationHelper
+    <com.tkchy.buttomnav.BottomNavigationHelper
         android:id="@+id/bottom_navigation_helper"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

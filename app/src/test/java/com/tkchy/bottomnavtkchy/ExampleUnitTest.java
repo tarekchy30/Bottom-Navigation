@@ -1,4 +1,4 @@
-package com.example.bottomnavtkchy;
+package com.tkchy.bottomnavtkchy;
 
 import org.junit.Test;
 
