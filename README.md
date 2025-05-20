@@ -1,10 +1,19 @@
----
+## ✨ Features
+- 🔄 Activity/Fragment navigation
+- 🎨 Customizable colors and styles
+- 🔔 Badge notifications
+- 🌙 Dark/Light theme support
+- ⚡ Smooth animations
 
-### 🧪 Optional: Publish via JitPack (for global Gradle access)
+## 📥 Installation
 
-If you want others to use your library in their Gradle projects like this:
-
+### Gradle (JitPack)
 ```groovy
-implementation 'com.github.YOUR_GITHUB_USERNAME:BottomNavigationLib:1.0.0'
+// Project-level build.gradle
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
 
 
