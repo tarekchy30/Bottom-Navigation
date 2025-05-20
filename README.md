@@ -45,17 +45,6 @@ dependencies {
 
 ## Java Code
 ```groovy
-bottomNav.setup(
-    this, // Context
-    R.id.nav_home, // Default item
-    HomeActivity.class,
-    SearchActivity.class
-);
-```
-
-
-## Kotlin Code 
-```groovy
 BottomNavigationHelper bottomNav = findViewById(R.id.bottom_navigation_helper);
 bottomNav.setup(this,
      R.id.nav_home,
@@ -63,6 +52,19 @@ bottomNav.setup(this,
      ProfileActivity.class,
      SettingsActivity.class
 );
+```
+
+
+## Kotlin Code 
+```groovy
+val bottomNav: BottomNavigationHelper = findViewById(R.id.bottom_navigation_helper)
+bottomNav.setup(
+    this,
+    R.id.nav_home,
+    HomeActivity::class.java,
+    ProfileActivity::class.java,
+    SettingsActivity::class.java
+)
 
 ```
 
