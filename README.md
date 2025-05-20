@@ -29,7 +29,7 @@ dependencies {
 ## 💻 Usage
    XML Layout
 ```groovy
-<com.example.buttomnav.BottomNavigationHelper
+<com.tkchy.buttomnav.BottomNavigationHelper
     android:id="@+id/bottomNav"
     android:layout_width="match_parent"
     android:layout_height="56dp"
