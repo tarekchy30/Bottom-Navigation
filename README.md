@@ -52,12 +52,12 @@ bottomNav.setup(
 ## Kotlin Code 
 ```groovy
 BottomNavigationHelper bottomNav = findViewById(R.id.bottom_navigation_helper);
-        bottomNav.setup(this,
-                R.id.nav_home,
-                HomeActivity.class,
-                ProfileActivity.class,
-                SettingsActivity.class
-        );
+bottomNav.setup(this,
+     R.id.nav_home,
+     HomeActivity.class,
+     ProfileActivity.class,
+     SettingsActivity.class
+);
 
 ```
 
